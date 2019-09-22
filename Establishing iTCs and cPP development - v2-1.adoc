@@ -201,14 +201,23 @@ In summary:
 * A Position Statement may be updated by its author at any time, but when new interim deliverables are agreed then authors of existing Position Statements will be invited to update them and all other CCRA Participants will be invited to issue Position Statements
 * When a cPP/SD are published and approved, then CCRA Participants will be asked to issue an Endorsement Statement.
 
-* The USB process initially defined only an Endorsement Statement (originally named “commitment statements”) that would be updated as the creation of the cPP progressed. However, it subsequently became clear that there was a benefit in (a) separating an ability to express less formal ‘positions’ from recording of more formal ‘endorsements’ with a stronger link to procurement activities; (b) providing a vehicle for the expression of technical comments that express a desire for changes in the current state of cPP interim deliverables (hence position statements can be ‘positive’ or ‘negative’); and (c) enabling entities other than CCRA Participants to express the same range of views, in both Position and Endorsement Statements.
-* A separate Level of Endorsement was also defined for earlier versions of the USB process, in order to capture at an early stage each CCRA Participant’s basic attitude to the cPP, and as a simpler, quicker way to express this attitude (i.e. without the need to draft the text for a formal statement). However, it was decided that this was unnecessary when the use of free-format separate PS & ES was defined.
+[NOTE]
+====
+The USB process initially defined only an Endorsement Statement (originally named “commitment statements”) that would be updated as the creation of the cPP progressed. However, it subsequently became clear that there was a benefit in (a) separating an ability to express less formal ‘positions’ from recording of more formal ‘endorsements’ with a stronger link to procurement activities; (b) providing a vehicle for the expression of technical comments that express a desire for changes in the current state of cPP interim deliverables (hence position statements can be ‘positive’ or ‘negative’); and (c) enabling entities other than CCRA Participants to express the same range of views, in both Position and Endorsement Statements.
+====
+[NOTE]
+====
+A separate Level of Endorsement was also defined for earlier versions of the USB process, in order to capture at an early stage each CCRA Participant’s basic attitude to the cPP, and as a simpler, quicker way to express this attitude (i.e. without the need to draft the text for a formal statement). However, it was decided that this was unnecessary when the use of free-format separate PS & ES was defined.
+====
 
 == Process for cPP/SD Development
 
 The previous section stated the guiding principles behind the process outlined in the remainder of the document. Figure 3 provides a flow diagram of the process, with the detail of each of the blocks described in the following text. For the sake of clarity Figure 3 does not show all the possible paths through the stages: it represents the main path in which a new iTC is created to create a new cPPfootnote:[So, for example, the path where the cPP is assigned to an existing iTC at the ESR stage is described in the text but not indicated by arrows between the relevant blocks in Figure 3.].
 
-* The process described in this paper has evolved from the initial process defined by the CCDB Work Group for USB Portable Storage Devices, and is therefore different from the approach actually followed for the USB iTC.
+[NOTE]
+====
+The process described in this paper has evolved from the initial process defined by the CCDB Work Group for USB Portable Storage Devices, and is therefore different from the approach actually followed for the USB iTC.
+====
 
 The iTC is free to decide the details of how they wish to create the cPP and its interim deliverables (SPD, requirements, etc.) to best suit their needs. The steps described below suggest preferred ways of working that are based on making extensive use of natural language in preference to, or at least as an accompaniment to, CC language. This reflects the importance of achieving a common understanding of the meaning and intended application of the CC language amongst an iTC that is likely to include end-users and/or risk-owners who may not be so familiar with the CC language but have an important contribution to make in ensuring that the cPP will be appropriate for use. However, beyond following the sequence of process steps, the use of natural language in this way is guidance and is not mandatory.
 
@@ -265,7 +274,10 @@ It would be expected that the CCRA Participants who join the WG will issue Posit
 
 The WG will, in general, be closed after it has completed the agreed ESR and the iTC has started work (i.e. after Block 12 as described below).
 
-* In the case of the USB WG, since this WG is defining the pilot process for iTCs and cPPs, the WG will continue to exist until it is determined that the process has been sufficiently defined and confirmed by use.
+[NOTE]
+====
+In the case of the USB WG, since this WG is defining the pilot process for iTCs and cPPs, the WG will continue to exist until it is determined that the process has been sufficiently defined and confirmed by use.
+====
 
 ===== Block 5 CCDB WG Creates ESR
 
@@ -290,7 +302,10 @@ It is possible that the process of producing the ESR may indicate that the cPP w
 
 At this stage the WG distributes the draft ESR for public review to solicit comments and to ask for Position Statements from at least the CCRA Participants (see ‘Position Statements and Endorsement Statements’ above).
 
-* In the USB case, initial drafts of the ESR were distributed to all CCRA Participants and provided a useful way of increasing the WG membership. Comments and Position Statements on the ESR were solicited only from the CCRA Participants, although the ESR was also distributed more widely through the CCUF.
+[NOTE]
+====
+In the USB case, initial drafts of the ESR were distributed to all CCRA Participants and provided a useful way of increasing the WG membership. Comments and Position Statements on the ESR were solicited only from the CCRA Participants, although the ESR was also distributed more widely through the CCUF.
+====
 
 CCRA Participants are not _required_ to respond to the draft ESR, but it is hoped that all will provide a PS at least by the time the ESR is finalized. The WG adjudicates the comments received, in a way that arrives at a consensus among the WG members (according to the decision process defined in the WG’s terms of reference). While the comment resolution process can be a lengthy and time consuming process, the WG nevertheless attempts to respond to all comments against the ESR. This is encouraged as at least a courtesy, acknowledging the time and effort taken to review a document and submit comments. The ultimate goal of the comment resolution process is to reach consensus among as many potential supporters of the cPP (nations and others) as possible.
 
@@ -310,7 +325,10 @@ Another possibility is that the WG or CCDB may decide that the new cPP would be 
 
 If a suitable TC cannot be found to develop a cPP, then the WG assists the CCDB in creating a new iTC. The WG may contact potential iTC members in order to bring together a suitable initial group of members, who can then take on the task of forming the iTC. Care must be taken at this stage to balance the number of initial members that can reasonably be involved in forming the iTC against the number of members intended for the full iTC. The need to communicate with an initial group, before it has formed a single iTC identity with suitable points of contact (such as a Chair and a Liaison CCRA Participant) means that the initial group may have to be significantly smaller than is intended for the full iTC. The WG shall therefore seek to ensure that the later members will not be significantly disadvantaged, for example in terms of influence over the cPP/SD or the iTC terms of reference, accrues to the initial members but not to the other members of the fully formed iTC. Although it is a defining characteristic of the initial members that they are willing to put in place an infrastructure on which to base a full iTC, the initial members should not be allowed to start formally recognized work on the cPP until a suitably representative iTC membership has been achieved. The criterion of a suitably representative membership will be part of the CCDB review of the iTC proposed ToR in ‘Block 12 iTC ToR Created/CCDB Approval and CCMC Endorsement/Liaison CCRA Participant Appointed’, and if the iTC decides to work on the cPP before it has been approved, then it must note that it will be required to follow the steps in the process for its subsequent work to be recognized. So, for example, even if a full cPP draft were to be available at the point where the iTC is approved by the CCDB, the iTC will still need to carry out a public review of the SPD and respond to comments (blocks 14-17), followed by similar steps for the requirements (blocks 18-21) before moving to review of the full cPP/SDfootnote:[The intention here is to ensure that cPPs are genuinely collaborative and are developed in an open manner. An iTC needs to demonstrate that this has been done by following the visible process steps. This does not exclude the possibility that an existing PP could be adopted by the iTC, but this can only be done after offering opportunities for others not involved in the existing cPP to discuss and agree the SPD and requirements in their own right, before moving to consider the PP as a whole.].
 
-* In the USB case, an initial group of 3 developers were contacted. This group established a developer organization (the Secure USB Alliance) with a web presence from which to further develop the iTC.
+[NOTE]
+====
+In the USB case, an initial group of 3 developers were contacted. This group established a developer organization (the Secure USB Alliance) with a web presence from which to further develop the iTC.
+====
 
 Although the WG carries out many of the tasks involved in bringing together the initial iTC members, the formal invitation to form an iTC is issued by the CCDB. The invitation is published on the Common Criteria portal as well as distributed to all CCRA Participants and other groups such as the CCUF, with the intention that these recipients will help to find further candidates for membership of the iTC. It is also envisioned of course that some CCRA Participants would participate in the iTC.
 
