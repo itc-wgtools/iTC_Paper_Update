@@ -463,6 +463,11 @@ The CCRA Management Committee is responsible for:
 * Endorsing an iTC (following approval of the iTC and its ToR by the CCDB)
 * Approving the need for new mandatory Supporting Documents for technical areas or domains requested by the CCDB (cf. CCMC operating procedure on Supporting documents, MC 2006- 09-003 ).
 
+[TIP]
+====
+QUESTION: Does the CCMC operating procedure need to be changed?
+====
+
 === The role of the CC Development Board
 
 The CCDB is responsible for:
@@ -483,6 +488,14 @@ The CCDB is responsible for:
 Although it does not control or direct the iTC, the CCDB may also attempt to resolve issues arising during the development of a cPP that threaten to lower the level of cPP/SD support from a CCRA nation.
 
 In cases where an iTC has become inactive and its cPP is not being used, the CCDB may also decide to set a sunset date for the cPP, after which it will be withdrawn (i.e. it will no longer be recognized and accepted for use in evaluations).
+
+[TIP]
+====
+QUESTION: Discuss how to identify and handle inactive iTCs?
+- should all cPPs/SDs have an automatic sunset date?
+- should evaluators ensure that there is a live iTC before using cPP/SD?
+- should CCDB/CCUF expect a status update every 6 months or monitor some other way.
+- Ignore until an issue arises? (may not happen)
 
 Another document [CCDB Role] describes in more detail the responsibility of the CCDB in this process, as well as formalizing the communications that are necessary to ensure that the CCDB is kept informed of the material activities being performed by the iTC and that the iTC is fully aware of its standing with the CCDB (e.g., the iTC is made aware of any issues the CCDB may have with the progress or stances taken by the iTC, or is made aware that the CCDB is comfortable with the status and progress being made towards the cPP).
 
