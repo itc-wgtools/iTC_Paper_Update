@@ -10,11 +10,11 @@
 
 Unique Identifier: 00x
 
-Version: 0.7
+Version: 2.1
 
-*Status:* Draft
+*Status:* Discussion draft
 
-*Date of issue:* 2014-February 28
+*Date of issue:* 2019-September 21
 
 Approved by:
 
@@ -94,7 +94,7 @@ d.  establishing interpretations of the application of the CC and CEM necessary 
 
 == Background
 
-The CCRA Management Committee (CCMC) meeting in Paris in September 2012 agreed on a vision statement [Vision] for the future direction of the application of the CC, leading to a revision of the CCRA (see [CCRA]). [Vision] includes a fundamental framework to enable proper management of cPPs intended to be used for procurement purposes in several nationsfootnote:[Since [Vision] was published, the terminology in this area has moved on. This document distinguishes “international Technical Communities” (iTCs), which are tasked with the production of cPPs, from other general “Technical Communities” that may exist for various other purposes related to a technical area (e.g. standardisation). It should be clear from context which of these cases any particular use of “Technical Communities” in [Vision] refers to.].
+The CCRA Management Committee (CCMC) meeting in Paris in September 2012 agreed on a vision statement [Vision] for the future direction of the application of the CC, leading to a revision of the CCRA (see [CCRA]). [Vision] includes a fundamental framework to enable proper management of cPPs intended to be used for procurement purposes in several nationsfootnote:[Since Vision was published, the terminology in this area has moved on. This document distinguishes “international Technical Communities” (iTCs), which are tasked with the production of cPPs, from other general “Technical Communities” that may exist for various other purposes related to a technical area (e.g. standardisation). It should be clear from context which of these cases any particular use of “Technical Communities” in Vision refers to.].
 
 Through the vision statement the CCMC expressed the key point that the general security level of general Information and Communications Technology (ICT) COTS certified products needs to be raised without severely impacting price and timely availability of these products. To support that goal, the level of standardization has to be increased by building iTCs that develop cPPs and Supporting Documents, in order to reach reasonable, comparable, reproducible and cost-effective evaluation results. Collaboration with product vendors whose products fall within the scope of a cPP is proposed, in order to include state-of-the-art technology, promote fair competition and maximize acceptance of the cPP and the number of compliant products.
 
@@ -372,7 +372,7 @@ As stated earlier, there will be a baseline set of SARs that will form the basis
 
 The Supporting Documents define interpretations and refinements of CC and the CEM that are to be used in evaluating products that claim conformance with the cPP. The objective in all cases will be to interpret and refine the CC requirements and methodology to be appropriate for the technical area. The Supporting Documents are a vital part of achieving the reasonable, comparable, reproducible and cost-effective evaluation results referred to in [Vision].
 
-===== Block 27/28/29/30/31 iTC/Public/CCDB Supporting Documents Finalized and Published
+==== Block 27/28/29/30/31 iTC/Public/CCDB Supporting Documents Finalized and Published
 
 The Supporting Documents are released for public review on the CC portal (ideally at the same time as the draft cPP), and comments addressed in the same manner as for the other public review stages. Unlike the other review stages a formal CCDB review and approval of the Supporting Documents is required before they can be used in evaluations. The CCDB review will be concerned with establishing that the content of the documents supports the objectives of [Vision], and that they are consistent with other Supporting Documents.
 
