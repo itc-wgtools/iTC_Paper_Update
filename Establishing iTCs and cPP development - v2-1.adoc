@@ -121,9 +121,14 @@ Figure 1:High-Level View of iTC Initiation & Operationfootnote:[See ‘Terminolo
 
 At the Initiation stage, a request is received from an Initiator for the creation of a cPP covering a particular technical area (such as a USB portable storage device). This leads to an Approval stage at which the CCDB determines whether to approve the request (on the basis of criteria as indicated in [CCDB Role]).
 
-* The Initiator must be a CCRA Participant: other entities may ask for the submission of requests for a cPP, but only by first finding a CCRA Participant who agrees to act as the Initiator. In future, other entities may be allowed to act as Initiators and send requests directly to the CCDB.
+[IMPORTANT]
+====
+The Initiator must be a CCRA Participant: other entities may ask for the submission of requests for a cPP, but only by first finding a CCRA Participant who agrees to act as the Initiator. In future, other entities may be allowed to act as Initiators and send requests directly to the CCDB.
+====
+[IMPORTANT]
+====
 * Assuming that CCDB approval is granted, then a Working Group (WG) of CCRA Participants is formed to create an Essential Security Requirement (ESR). In future, the requirement for a WG to create the ESR may be relaxed, and an Initiator may themselves carry out the ESR Creation stage.
-
+====
 The ESR Creation stage first produces a draft Essential Security Requirement (ESR) (see ‘Block 5 CCDB WG ESR Creation’) that is distributed for comment, and gives an initial basis on which to gather members for an international Technical Community (iTC). This in turn leads to the iTC Creation stage in which the WG members establish a group with suitable membership, infrastructure, Terms of Reference, and workplan. The iTC is approved by the CCDB, and endorsed by the CCRA Management Committeefootnote:[This endorsement of the iTC by the Management Committee is required under Article 2 of the new CCRA in order for cPPs developed by the iTC to be mutually recognised under CCRA.] (both subject to meeting the relevant approval and endorsement criteria).
 
 After addressing comments on the draft ESR, a final ESR is issued, and this forms the main input to the iTC Work stage in which the cPP and one or more Supporting Documents for the technical area (abbreviated as “cPP/SD”) are createdfootnote:[See the CCMC operating procedure on Supporting documents, MC 2006- 09-003.]. The final ESR is also the basis for the PS Creation stage in which entities send Position Statements (PS) to the iTC as a way of expressing formal views on the ESR that are also a basis for the iTC to make judgements about the content of the cPP. There are several points during cPP creation where a request is made for the reissue of a PS to take account of new interim deliverables from the iTC (i.e. the outputs, such as the Security Problem Definition (SPD), that are published at various points in the process before the full cPP), but a PS may be updated by its author at any time.
@@ -134,17 +139,26 @@ After a number of detailed steps, involving public review of the emerging cPP co
 
 An important aspect of the cPP development process is that it encourages each CCRA Participant (and possibly other entities) to make a public statement about their interest in the development and use of each cPP, through the creation of a Position Statement (PS) and, after the publication of the cPP/SD, an Endorsement Statement (ES). These statements are intended to make clear the views of the author on the need for the relevant cPP, and the suitability of the interim deliverables (the ESR, SPD, etc.) to match the their requirements. This enables iTC members to make an informed estimate of the benefits that will justify their participation in the iTC.
 
-* Initially the PS and ES are expected to come from CCRA Participants. However, in future there may be other bodies involved in policy making, standardization, or procurement (not limited to national government requirements) who also find it appropriate to become involved in the cPP process and to issue PS or ES. Statements from such bodies would also support the intention to enable iTC members to make an informed estimate of the benefits that will justify their participation in the iTC.
+[IMPORTANT]
+====
+Initially the PS and ES are expected to come from CCRA Participants. However, in future there may be other bodies involved in policy making, standardization, or procurement (not limited to national government requirements) who also find it appropriate to become involved in the cPP process and to issue PS or ES. Statements from such bodies would also support the intention to enable iTC members to make an informed estimate of the benefits that will justify their participation in the iTC.
+====
 
 At its most general level, a Position Statement allows free-format comment on a cPP/SD, or the interim deliverables from an iTC, but does not represent a formal commitment by its author. By contrast, an Endorsement Statement is a formal statement of commitment to a finalized cPP, with a description of how that commitment is realized (e.g. by listing conformance with the cPP as a mandatory, preferred or recommended procurement requirement for certain types of equipment and/or placing conformant products on an ‘approved product list’).
 
 Both Position Statements and Endorsement Statements may relate to one or more cPPs, in which case the content of the statement must identify which cPPs it relates to.
 
-* The precise form and content of Position Statements and Endorsement Statements is not specified at present, but it is likely that templates will be created in future (at least for Endorsement Statements), after initial experiences have indicated the most useful and efficient content.
+[IMPORTANT]
+====
+The precise form and content of Position Statements and Endorsement Statements is not specified at present, but it is likely that templates will be created in future (at least for Endorsement Statements), after initial experiences have indicated the most useful and efficient content.
+====
 
 Both types of statement are public, and at the initial ESR stage (before an iTC has been given responsibility for the cPP) they are sent by their author to the CCDB Working Group, which will publish them on the CC portal. In later stages, when the iTC has been established and approved, PS and ES are sent directly to the iTC, which will manage the publication of the statements on the CC portal or an iTC website (indeed it is expected to be a requirement in the iTC ToRs that it will provide timely publication of all statements received) as well as determining whether any further action should be taken in response.
 
-* The initial USB PS/ES have been published on the CC portal, and this is likely to remain the case for _any_ PS/ES that are issued on an ESR before the relevant iTC has been formed. Initially all PS/ES will be published on the CC portal (with the iTC taking responsibility for receiving them and requesting their publication), but at a later stage it is possible that the preferred approach will be for the iTC to maintain its own website (linked from the CC portal), and to publish the PS/ES itself.
+[IMPORTANT]
+====
+The initial USB PS/ES have been published on the CC portal, and this is likely to remain the case for _any_ PS/ES that are issued on an ESR before the relevant iTC has been formed. Initially all PS/ES will be published on the CC portal (with the iTC taking responsibility for receiving them and requesting their publication), but at a later stage it is possible that the preferred approach will be for the iTC to maintain its own website (linked from the CC portal), and to publish the PS/ES itself.
+====
 
 Because the point of a PS or ES is to provide motivation to product developers and to members of an iTC to invest in the development of cPP/SD and products that conform to the cPP, achieving a significant number of PS’s at an early stage (e.g. in response to the ESR) is highly desirable in order to support the formation of a suitably representative iTC. Furthermore, with this iTC-motivation aspect still in mind, the more detail and precision that is put in a PS or ES therefore, the better the iTC will understand the market demand, and thus the more likely it is that the cPP will satisfy the author’s needs . Also, the stronger the commitment that can be made in a PS/ES, the more weight its author’s requirements are likely to carry in the iTC.
 
@@ -170,7 +184,10 @@ It is expected that initially for each cPP being established, the set of CCRA Pa
 
 The lifecycle of Position Statements and Endorsement Statements, relative to other iTC activity, is shown in Figure 2.
 
-* As noted above, the PS/ES will initially be published directly on the ‘CC portal’ only- hence the option shown in Figure 2 to publish on an iTC website will not be used until a later stage.
+[IMPORTANT]
+====
+As noted above, the PS/ES will initially be published directly on the ‘CC portal’ only- hence the option shown in Figure 2 to publish on an iTC website will not be used until a later stage.
+====
 
 image:extracted-media/media/image5.png[image,width=553,height=451]
 
@@ -199,11 +216,17 @@ The iTC is free to decide the details of how they wish to create the cPP and its
 
 To begin the process an entity, referred to as the “Initiator”, submits a request to the CCDB for the development of a cPP for a specific technical area. This request should contain a justification of the need for a cPP and provides a high level description (a paragraph or two) of the security problem the resulting cPP would address. The request should also contain an approximate time-frame in which the Initiator would like to see a cPP completed so that their expectations are known. Where there is an apparently similar cPP already in existence or in development, then the cPP Initiator should provide a rationale that demonstrates the need for an additional cPP (as opposed to updating the existing cPP).
 
-* The Initiator must be a CCRA Participant: other entities may ask for the submission of requests for a cPP, but only by first finding a CCRA Participant who agrees to act as the Initiator. In future, other entities may be allowed to act as Initiators and send requests directly to the CCDB.
+[IMPORTANT]
+====
+The Initiator must be a CCRA Participant: other entities may ask for the submission of requests for a cPP, but only by first finding a CCRA Participant who agrees to act as the Initiator. In future, other entities may be allowed to act as Initiators and send requests directly to the CCDB.
+====
 
 Although the security problem description required at this stage is not a complete ESR, Initiators may nevertheless choose to submit a draft ESR as part of their request. Assuming that the request is approved, this may enable process steps up to the creation of the ESR (block 5) to be completed more quickly, but an ESR will only be accepted in this way on the understanding that it is a draft and is subject to revision by the Working Group (in block 5). This follows from the role of the ESR as a consensus-forming document that is open to as wide a range of procurement and risk owners as possible.
 
-* Initially the ESR will describe only national government requirements from CCRA Participant nations.
+[IMPORTANT]
+====
+Initially the ESR will describe only national government requirements from CCRA Participant nations.
+====
 
 ===== Block 2/3 CCDB Determines cPP Need
 
@@ -227,7 +250,10 @@ At this point the CCDB has determined there is a need to create a cPP, and the C
 
 A call for participation goes out to all CCRA Participants, and while the Initiator may act as the WG lead this is not a requirement of the process (the lead role is established by discussion amongst the CCDB chair and those who volunteer to take part in the WG). The membership in the WG is not necessarily limited to CCRA Participants: the CCMC could allow other organizations (e.g., NATO) to participate, or CCRA Participants could assign delegates to serve on the WG. As the cPP development process evolves, the need for a WG, or how its membership is constituted, may also evolve.
 
-* The initial members of a WG will be CCRA Participants. When the process is more mature, it may allow other stakeholders as WG members.
+[IMPORTANT]
+====
+The initial members of a WG will be CCRA Participants. When the process is more mature, it may allow other stakeholders as WG members.
+====
 
 As soon as it is formed the WG will create a work plan that should include the following:
 
@@ -245,7 +271,10 @@ The WG will, in general, be closed after it has completed the agreed ESR and the
 
 The primary role of the WG is to create the ESR and to help establish the iTC. The description below summarizes the principles behind the ESR, as well as giving a rationale for its need (more details of the ESR are given in Annex B).
 
-* Initially the members of a WG (and hence the authors of an ESR) will be primarily a group of CCRA Participants, and the ESR will describe only national government requirements from CCRA Participant nations. In future this requirement may be relaxed.
+[IMPORTANT]
+====
+Initially the members of a WG (and hence the authors of an ESR) will be primarily a group of CCRA Participants, and the ESR will describe only national government requirements from CCRA Participant nations. In future this requirement may be relaxed.
+====
 
 In order to allow creation of cPPs that are used for procurement purposes in several (ultimately all) nations that are signatories of the CCRA, it is necessary for appropriate government authorities of those nations to provide a common set of harmonized security requirements for products that are to be procured. Such appropriate government authorities may be the same as the ones representing the respective nation as their CCRA Participants (i.e. those that participate directly in CCRA management and execution activities). However, it should be expected that for many technical areas, other governmental authorities from the CCRA Participant’s nation may need to be involved in the work. Each CCRA Participant is therefore expected to inform other appropriate government authorities about the work on particular cPPs that may be relevant.
 
