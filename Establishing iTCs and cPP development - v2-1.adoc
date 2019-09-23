@@ -22,10 +22,32 @@ Supersedes:
 
 == Purpose
 
-This document describes the preferred process for developing a collaborative Protection Profile (cPP) and related Supporting Documents (SD)footnote:[In general, each cPP is expected to require one or more Supporting Documents to be developed, for example to describe the specific assurance activities for the SFRs and SARs of the cPP. Most references to “cPP” in this document will also have some connection to the Supporting Documents. In many places in this document the notation “cPP/SD” is used as a reminder of this fact.] under the CCRA. The development of a cPP/SD is carried out by an international Technical Community (iTC) that is endorsed by the CC Management Committee, and the process therefore also covers the formation and operation of an iTC. The process is intended to enable and encourage collaborative harmonisation of security functionality and assurance requirements for IT products that will provide the grounds for procurement and policy. The intent of this paper is to convey the general principles and present a high level process flow of the milestones that take place once a request has been made for the development of a cPP for a given technical area. Many individual details are deliberately left for the iTC to develop within certain constraints (which generally arise from CCRA-related concerns or past experience of applying CC). The CCDB will provide separate guidelines for the development of Terms of Reference (ToR) describing the task and operating practices of an iTC, including a ToR template [ToR Guide], which will incorporate research into existing technical communities performed by the Common Criteria Users Forum (CCUF).
+This document has been derived from the published version which describes the preferred process for developing a collaborative Protection Profile (cPP) and related Supporting Documents (SD)footnote:[In general, each cPP is expected to require one or more Supporting Documents to be developed, for example to describe the specific assurance activities for the SFRs and SARs of the cPP. Most references to “cPP” in this document will also have some connection to the Supporting Documents. In many places in this document the notation “cPP/SD” is used as a reminder of this fact.] under the CCRA. 
 
-* Certain aspects of the initial application of the process will be more constrained than in the mature version (i.e. when experience of the process has generated confidence in its consistent application and effectiveness). For example, initially only CCRA Participants will be allowed to act as Initiators (i.e. the entities that submit requests for a cPP to the CCDB). These initial constraints are expected to be implemented in [CCDB Role] and [CCMC Role] (e.g. by making changes to CCDB decision criteria once suitable reference examples of the use of the process have been achieved). It will be announced, via a statement on the CC portal and update of the relevant documents, when the initial constraints have been relaxed.
-[DISCUSSION]
+[TIP]
+====
+This version has been annotated with questions (marked with this admonition - the questions will be combined into a discussion list for initial discussion at a CCDB/CCUF workshop at the September 2019 meetings, followed by further CCDB and CCMC discussion to inform the editors as they produce a further draft.
+====
+The development of a cPP/SD is carried out by an international Technical Community (iTC) that is endorsed by the CC Management Committee, and the process therefore also covers the formation and operation of an iTC. 
+
+[TIP]
+====
+QUESTION: Does the creation of iTCs and subsequent production of cPPs/SDs need to involve the CCRA committees?
+Production and monitoring is discussed later but this is the first question regarding the CCMC providing approval. - There is effort involved (by CCDB members and by staff working for MC members) in each approval - is this necessary? Without this step however is there a risk to CCRA reputation?
+====
+
+The process is intended to enable and encourage collaborative harmonisation of security functionality and assurance requirements for IT products that will provide the grounds for procurement and policy. The intent of this paper is to convey the general principles and present a high level process flow of the milestones that take place once a request has been made for the development of a cPP for a given technical area. Many individual details are deliberately left for the iTC to develop within certain constraints (which generally arise from CCRA-related concerns or past experience of applying CC). The CCDB will provide separate guidelines for the development of Terms of Reference (ToR) describing the task and operating practices of an iTC, including a ToR template [ToR Guide], which will incorporate research into existing technical communities performed by the Common Criteria Users Forum (CCUF). _CCUF iTC tools group has actually produced these._
+
+* Certain aspects of the initial application of the process will be more constrained than in the mature version (i.e. when experience of the process has generated confidence in its consistent application and effectiveness). 
+[TIP]
+====
+QUESTION: Does the CCDB/MC agree that we now have enough experience to reduce the constraints (even if this is done gradually)?
+====
+For example, initially only CCRA Participants will be allowed to act as Initiators (i.e. the entities that submit requests for a cPP to the CCDB). These initial constraints are expected to be implemented in [CCDB Role] and [CCMC Role] (e.g. by making changes to CCDB decision criteria once suitable reference examples of the use of the process have been achieved). It will be announced, via a statement on the CC portal and update of the relevant documents, when the initial constraints have been relaxed.
+[TIP]
+====
+QUESTION: Can others now act as initiators of an iTC (e.g. industry as suggested at the recent CCDB meeting in Rome? Should there be any constraints imposed on who/how many and what should the process be (if CCDB/MC is still involved at some stage)  
+====
 It is expected that this process will be improved in the future by making refinements based on experience of applying it. The goal is to create a ‘method of choice’ for capturing and using shared security evaluation requirements, based on demonstrable examples of effective use.
 
 == Status and History
@@ -57,7 +79,7 @@ Paragraphs with this style indicate text applicable to the initial ‘prototype�
 ====
 [TIP]
 ====
-Paragraphs with this admonition indicate questions 
+Paragraphs with this admonition indicate questions for discussion initially at the CCDB/CCUF Workshop September 2019
 ====
 
 == Terminology
@@ -496,6 +518,7 @@ QUESTION: Discuss how to identify and handle inactive iTCs?
 - should evaluators ensure that there is a live iTC before using cPP/SD?
 - should CCDB/CCUF expect a status update every 6 months or monitor some other way.
 - Ignore until an issue arises? (may not happen)
+====
 
 Another document [CCDB Role] describes in more detail the responsibility of the CCDB in this process, as well as formalizing the communications that are necessary to ensure that the CCDB is kept informed of the material activities being performed by the iTC and that the iTC is fully aware of its standing with the CCDB (e.g., the iTC is made aware of any issues the CCDB may have with the progress or stances taken by the iTC, or is made aware that the CCDB is comfortable with the status and progress being made towards the cPP).
 
