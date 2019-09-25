@@ -485,6 +485,11 @@ When a complete SPD has been drafted and reviewed within the iTC (according to i
 
 The CCDB (and CCMC) will keep the scope of the iTC and its cPP(s) under continuous review, and may intervene if this scope has expanded from the original remit and/or has developed overlap with another cPP without CCDB approval and CCMC endorsement. This could potentially lead to CCMC endorsement of the iTC for one or more of its cPPs being withdrawn. However, it is also recognized that there will be cases where authorization for expansion of the iTC remit needs to be approved and endorsed. The preferred course is therefore for the iTC itself to request any such expansion through the CCDB.
 
+[TIP]
+====
+QUESTION: Does the SPD need public review as well as the cPP and SDs?   
+====
+
 ===== Block 15/16/17 iTC/Public SPD Finalized
 
 The iTC receives comments from the public review, and decides how to respond. Although the iTC retains ownership of the cPP, and therefore makes decisions regarding responses to both internal comments (from members of the iTC) and external comments, the goal for a cPP remains to achieve consensus among as many stakeholders as possible. As part of encouraging and acknowledging the engagement of the various parties involved in cPP development (whether inside or outside the iTC), the iTC should respond to all authors of comments, acknowledging receipt and indicating the results of processing the comments.
@@ -543,6 +548,11 @@ When the cPP has been finalized and its Supporting Documents have been approved 
 
 At this stage the iTC is expected to continue to exist, and to provide support for the use of the cPP in TOE evaluations (e.g. by supporting and collating interpretations that are found necessary in TOE evaluations, and producing updated versions of the cPP/SD to reflect experience of their use, and changes in the technical area and threats). This maintenance activity is addressed in [cPP Maint].
 
+[TIP]
+====
+QUESTION: The maintenance document was never produced - we now have some relevant experience (NIT etc.) Should we just incorporate in this document?. 
+====
+
 == References
 
 [CCDB Role] _*[*Reference to a document that describes the details regarding the CCDB’s participation in this process. Note that in some areas this may overlap with [ToR Guide] below. It is likely that [CCDB Role] will take the form of an Operating Procedure which will initially include more restrictions than expected for the mature process. These restrictions will be relaxed as good examples of mature cPPs and iTCs appear.]*_
@@ -598,6 +608,17 @@ The CCDB is responsible for:
 * Appointing a Liaison CCRA Participant for each iTC
 * Monitoring the progress of each cPP against its workplan, via reports from the Liaison CCRA Participant in each iTC (block 12) (block 13)
 * Reviewing and approving the content of Supporting Documents drafted by iTCs (block 27/28/29/30/31).
+
+[TIP]
+====
+QUESTION: How to incorporate the approach used now which combines first use approval with later CCMB study?
+====
+
+[TIP]
+====
+QUESTION: How best to ensure that CCMB/CCDB is aware of cPP/SD updates and is able to prioritise subsequent CCMB review effort?
+====
+
 
 Although it does not control or direct the iTC, the CCDB may also attempt to resolve issues arising during the development of a cPP that threaten to lower the level of cPP/SD support from a CCRA nation.
 
