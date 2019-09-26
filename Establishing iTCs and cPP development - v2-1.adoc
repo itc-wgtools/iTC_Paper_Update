@@ -1,10 +1,6 @@
+= Establishing International Technical Communities and Developing collaborative Protection Profiles
+:showtitle:
 
-
-
-
-
-
-*Title:* Establishing International Technical Communities and Developing collaborative Protection Profiles
 
 *Maintained by:* CCDB Work Group for USB Portable Storage Devices
 
