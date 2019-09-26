@@ -35,6 +35,7 @@ Production and monitoring is discussed later but this is the first question rega
 The process is intended to enable and encourage collaborative harmonisation of security functionality and assurance requirements for IT products that will provide the grounds for procurement and policy. The intent of this paper is to convey the general principles and present a high level process flow of the milestones that take place once a request has been made for the development of a cPP for a given technical area. Many individual details are deliberately left for the iTC to develop within certain constraints (which generally arise from CCRA-related concerns or past experience of applying CC). The CCDB will provide separate guidelines for the development of Terms of Reference (ToR) describing the task and operating practices of an iTC, including a ToR template [ToR Guide], which will incorporate research into existing technical communities performed by the Common Criteria Users Forum (CCUF). _CCUF iTC tools group has actually produced these._
 
 * Certain aspects of the initial application of the process will be more constrained than in the mature version (i.e. when experience of the process has generated confidence in its consistent application and effectiveness). 
+
 [TIP]
 ====
 QUESTION: Does the CCDB/MC agree that we now have enough experience to reduce the constraints (even if this is done gradually)?
@@ -563,9 +564,9 @@ QUESTION: The maintenance document was never produced - we now have some relevan
 
 [ESR Temp] _*[*Reference to the ESR Template, which currently exists as the file ‘ESR-Template v0.2.docx’]*_
 
-[ToR Guide] _*[*Reference to a new guidance document to be created, probably in the form of a CCRA Operating Procedure. This guidance will reference the CCUF ToR guidelines, and will note certain requirements for applying this to iTCs. For example, it will be required to reference the WTO 6 principles, and to establish sufficient representation in the iTC membership both in terms of types of participant (CCRA Participants, labs, developers, risk owners/relying-parties) and the numbers of each (relative to the technical area). The CCRA Operating Procedure will be subject to CCDB review and CCMC approval. ]*_
+[ToR Guide] Reference to a new guidance document to be created, probably in the form of a CCRA Operating Procedure. This guidance will reference the CCUF ToR guidelines, and will note certain requirements for applying this to iTCs. For example, it will be required to reference the WTO 6 principles, and to establish sufficient representation in the iTC membership both in terms of types of participant (CCRA Participants, labs, developers, risk owners/relying-parties) and the numbers of each (relative to the technical area). The CCRA Operating Procedure will be subject to CCDB review and CCMC approval.
 
-_*[*It is also intended to create a library of iTC ToR, to help new iTCs to quickly establish a set of approved ToR.]*_
+_It is also intended to create a library of iTC ToR, to help new iTCs to quickly establish a set of approved ToR._
 
 [Vision] Vision statement for the future direction of the application of the CC and the CCRA, 2012-09-001, v2.0, September 2012
 

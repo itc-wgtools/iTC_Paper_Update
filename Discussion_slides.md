@@ -44,7 +44,7 @@ It doesn't seem like this was thought through for commercial products in an open
 
 # Outstanding CCUF question ITC.03: - Response
 
-Addressed by the new cPP/SD initial approval on first use backed up by CCMB review process  
+Addressed by the new cPP/SD initial approval on first use backed up by CCMB review process.  
 
 # Outstanding CCUF question ITC.04: - 1
 
